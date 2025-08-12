@@ -61,18 +61,17 @@
 
 ## 📊 GitHub Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammednihalmp&show_icons=true&theme=radical" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammednihalmp&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=muhammed marvan uk&show_icons=true&theme=radical" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed marvan uk&theme=radical" height="160" />
 </p>
 
 ---
 
-## 🌎 Connect With Me
-<p>
-<a href="mailto:muhammadnihalmp955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammed-nihal-mp-96a346283/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/Muhammed_Nihal_MP"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+## 🌎 Connect With Me 
+---
+
+<a www.linkedin.com/in/muhammed-marvan-9ba5bb370
+<a https://www.instagram.com/marvann___?igsh=cWtpcTJhNW54OTZ2
 
 ---
 
