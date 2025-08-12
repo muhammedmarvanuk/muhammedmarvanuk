@@ -26,17 +26,8 @@
 
 ---
 
-## 📊 GitHub Stats
-![Muhammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammed-marvan-uk&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-marvan-uk&layout=compact&theme=radical)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](www.linkedin.com/in/muhammed-marvan-9ba5bb370)
 [![Instagrame](https://www.instagram.com/marvann___?igsh=cWtpcTJhNW54OTZ2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff5722?logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-
----
 
 > 🕵️‍♂️ *"In cybersecurity, offense informs defense — and I play both sides."*
